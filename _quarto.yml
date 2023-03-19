@@ -32,7 +32,7 @@ website:
     collapse-level: 1
     contents:
       - href: index.qmd
-        text: Welcome
+        text: Welcome To Hello World
       - explore.qmd
       - section: quarto-workflows/index.qmd
         contents: 
